@@ -42,9 +42,9 @@ def fit_linear_regression(X, y, test_size=0.25, random_state=0):
 # ------------------------
 def run_streamlit():
     import streamlit as st
-    st.set_page_config(page_title="Linear Regression — CRISP-DM Demo", layout="wide")
+    st.set_page_config(page_title="Linear Regression — CRISP-DM Demo - 李安旭 4111056002", layout="wide")
 
-    st.title("Linear Regression — CRISP-DM Demo")
+    st.title("Linear Regression — CRISP-DM Demo - 李安旭 4111056002")
 
     with st.sidebar:
         st.header("Data Generation")
@@ -88,7 +88,7 @@ def run_flask():
     app = Flask(__name__)
 
     PAGE = """
-    <h1>Linear Regression — CRISP-DM Demo</h1>
+    <h1>Linear Regression — CRISP-DM Demo - 李安旭 4111056002</h1>
     <form method="POST">
       a: <input type="number" step="0.1" name="a" value="{{a}}"> |
       b: <input type="number" step="0.1" name="b" value="{{b}}"> |
