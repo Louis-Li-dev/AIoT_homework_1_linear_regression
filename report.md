@@ -14,6 +14,7 @@
 另外，題目要求除了程式與結果之外，必須包含「提示 (Prompt) 與過程 (Process)」，因此我也將我使用 ChatGPT 的過程與提示一併記錄於本報告。
 
 Prompt 分享連結：[https://chatgpt.com/share/68d3491b-2e6c-8013-aabd-0802fc6a65e8](https://chatgpt.com/share/68d3491b-2e6c-8013-aabd-0802fc6a65e8)
+Deplayment 分享連結：[https://aiot-homework-1-linear-regression.streamlit.app/](https://aiot-homework-1-linear-regression.streamlit.app/)
 
 ---
 
