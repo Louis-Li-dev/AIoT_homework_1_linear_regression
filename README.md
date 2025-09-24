@@ -25,6 +25,7 @@ It provides two deployment options for interactive exploration:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/linear-reg-crispdm.git
+git clone https://github.com/Louis-Li-dev/AIoT_homework_1_linear_regression/tree/main
 cd linear-reg-crispdm
 pip install -r requirements.txt
+
